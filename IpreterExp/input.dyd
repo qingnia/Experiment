@@ -1,0 +1,66 @@
+begin           12
+EOLN            24
+integer         12
+k               12
+;               23
+EOLN            24
+integer         12
+fuction         12
+
+(               21
+n               12
+)               22
+;               23
+EOLN            24
+begin           12
+EOLN            24
+integer         12
+n               12
+;               23
+EOLN            24
+if              12
+n               12
+<=              14
+0               12
+then            12
+
+:=              20
+1               12
+EOLN            24
+else            12
+
+:=              20
+n               12
+*               19
+
+(               21
+n               12
+-               18
+1               12
+)               22
+EOLN            24
+end             12
+;               23
+EOLN            24
+read            12
+(               21
+m               12
+)               22
+;               23
+EOLN            24
+k               12
+:=              20
+
+(               21
+m               12
+)               22
+;               23
+EOLN            24
+write           12
+(               21
+k               12
+)               22
+EOLN            24
+end             12
+EOLN            24
+EOF             25
